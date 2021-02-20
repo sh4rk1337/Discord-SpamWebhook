@@ -1,2 +1,2 @@
 # Discord-SpamWebhook
-Simple Discord SpamWebhook 
+Free Simple Spam Webhook
