@@ -1,0 +1,7 @@
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\bin\Debug\Discord SpamWebhook.exe.config
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\bin\Debug\Discord SpamWebhook.exe
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\bin\Debug\Discord SpamWebhook.pdb
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\obj\Debug\Discord SpamWebhook.csprojAssemblyReference.cache
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\obj\Debug\Discord SpamWebhook.csproj.CoreCompileInputs.cache
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\obj\Debug\Discord SpamWebhook.exe
+C:\Users\ThanaphonX\source\repos\Discord SpamWebhook\Discord SpamWebhook\obj\Debug\Discord SpamWebhook.pdb
